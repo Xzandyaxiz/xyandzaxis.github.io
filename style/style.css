@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+}
+
+.name-holder {
+    font-family: monospace;
+    font-size: 150%;
+    text-align: center;
+}
+
+.name {
+    color: white;
+}
